@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }: AppProps) {
               url: "https://i.imgur.com/MW3NRnZ.jpg",
               width: 800,
               height: 600,
-              alt: "Rasha Rahman Product Developer Front End Engineer",
+              alt: "Rasha Rahman Product Developer Front End Engineer Main Image",
             },]
         }}
         twitter={{
