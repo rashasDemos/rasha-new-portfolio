@@ -10,7 +10,7 @@ interface MainInfoProps {
 const links = [
   {
     link:
-      "https://github.com/rasha-rahman123/Portfolio-Website-Rasha/blob/master/rasha%20rahman%20resume%20freelance.pdf",
+      "https://github.com/rasha-rahman123/Portfolio-Website-Rasha/blob/master/Rasha_Rahman_Resume.pdf",
     name: "Resume",
   },
   {
